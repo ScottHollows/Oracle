@@ -1,3 +1,16 @@
+
+Files
+====================
+_readme.txt                        this file
+example.png                        Example data model and insert
+example_workaround.sql             Example workaround.  Constraint and trigger examples
+fk_check_code_generator_ALL.sql    Run this to show a list of FKs that are problematic
+                                   and also generate SQL for check constraints to fix them 
+fk_check_code_generator_DBA.sql    DBA version of above
+
+
+Explanation
+====================
 The following is a text version of this post ...
    https://scotthollows.com/2026/01/05/oracle-foreign-keys-do-not-always-work/
 
